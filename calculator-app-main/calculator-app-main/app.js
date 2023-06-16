@@ -1,0 +1,18 @@
+// const sete = addEventListener('sete')
+// const oito = addEventListener('oito')
+// const nove = addEventListener('nove')
+// const quatro = addEventListener('quatro')
+// const cinco = addEventListener('cinco')
+// const seis = addEventListener('seis')
+// const um = addEventListener('um')
+// const dois = addEventListener('dois')
+// const tres = addEventListener('tres')
+
+// const del = addEventListener('del')
+// const mais = addEventListener('mais')
+// const menos = addEventListener('menos')
+// const div = addEventListener('div')
+// const vezes = addEventListener('vezes')
+// const reset = addEventListener('reset')
+// const igual = addEventListener('igual')
+
